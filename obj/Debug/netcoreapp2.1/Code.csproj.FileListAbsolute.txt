@@ -1,0 +1,28 @@
+C:\Users\Administrator\Desktop\Code\bin\Debug\netcoreapp2.1\Code.deps.json
+C:\Users\Administrator\Desktop\Code\bin\Debug\netcoreapp2.1\Code.runtimeconfig.json
+C:\Users\Administrator\Desktop\Code\bin\Debug\netcoreapp2.1\Code.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Code\bin\Debug\netcoreapp2.1\Code.dll
+C:\Users\Administrator\Desktop\Code\bin\Debug\netcoreapp2.1\Code.pdb
+C:\Users\Administrator\Desktop\Code\obj\Debug\netcoreapp2.1\Code.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Code\obj\Debug\netcoreapp2.1\Code.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Code\obj\Debug\netcoreapp2.1\Code.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Code\obj\Debug\netcoreapp2.1\Code.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Code\obj\Debug\netcoreapp2.1\Code.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Code\obj\Debug\netcoreapp2.1\Code.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Code\obj\Debug\netcoreapp2.1\Code.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Code\obj\Debug\netcoreapp2.1\Code.dll
+C:\Users\Administrator\Desktop\Code\obj\Debug\netcoreapp2.1\Code.pdb
+C:\Users\Administrator\Desktop\Code\Task 1\obj\Debug\netcoreapp2.1\Code.dll
+C:\Users\Administrator\Desktop\Code\Task 1\obj\Debug\netcoreapp2.1\Code.pdb
+C:\Users\Administrator\Desktop\Code\Task 1\bin\Debug\netcoreapp2.1\Code.deps.json
+C:\Users\Administrator\Desktop\Code\Task 1\bin\Debug\netcoreapp2.1\Code.runtimeconfig.json
+C:\Users\Administrator\Desktop\Code\Task 1\bin\Debug\netcoreapp2.1\Code.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Code\Task 1\bin\Debug\netcoreapp2.1\Code.dll
+C:\Users\Administrator\Desktop\Code\Task 1\bin\Debug\netcoreapp2.1\Code.pdb
+C:\Users\Administrator\Desktop\Code\Task 1\obj\Debug\netcoreapp2.1\Code.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Code\Task 1\obj\Debug\netcoreapp2.1\Code.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Code\Task 1\obj\Debug\netcoreapp2.1\Code.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Code\Task 1\obj\Debug\netcoreapp2.1\Code.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Code\Task 1\obj\Debug\netcoreapp2.1\Code.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Code\Task 1\obj\Debug\netcoreapp2.1\Code.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Code\Task 1\obj\Debug\netcoreapp2.1\Code.RazorTargetAssemblyInfo.cache
